@@ -1,20 +1,20 @@
 # ----------------------
 # Node.js (frontend)
 # ----------------------
-linkedin_auto_apply/node_modules/
-linkedin_auto_apply/dist/
-linkedin_auto_apply/.env
-linkedin_auto_apply/npm-debug.log*
-linkedin_auto_apply/yarn-debug.log*
-linkedin_auto_apply/yarn-error.log*
+linkedin-auto-apply/node_modules/
+linkedin-auto-apply/dist/
+linkedin-auto-apply/.env
+linkedin-auto-apply/npm-debug.log*
+linkedin-auto-apply/yarn-debug.log*
+linkedin-auto-apply/yarn-error.log*
 
 # ----------------------
 # Python (backend)
 # ----------------------
-linkedin_auto_apply-backend/.venv/
-linkedin_auto_apply-backend/env/
-linkedin_auto_apply-backend/venv/
-linkedin_auto_apply-backend/__pycache__/
+linkedin-auto-apply-backend/.venv/
+linkedin-auto-apply-backend/env/
+linkedin-auto-apply-backend/venv/
+linkedin-auto-apply-backend/__pycache__/
 *.pyc
 *.pyo
 *.pyd
