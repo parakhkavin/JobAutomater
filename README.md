@@ -192,4 +192,4 @@ GET http://localhost:5000/api/automation/export
 
 ## 👨‍💻 Author
 
-Developed by Your Name
+Developed by Kavin Parakh
