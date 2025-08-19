@@ -1,0 +1,38 @@
+# ----------------------
+# Node.js (frontend)
+# ----------------------
+linkedin_auto_apply/node_modules/
+linkedin_auto_apply/dist/
+linkedin_auto_apply/.env
+linkedin_auto_apply/npm-debug.log*
+linkedin_auto_apply/yarn-debug.log*
+linkedin_auto_apply/yarn-error.log*
+
+# ----------------------
+# Python (backend)
+# ----------------------
+linkedin_auto_apply-backend/.venv/
+linkedin_auto_apply-backend/env/
+linkedin_auto_apply-backend/venv/
+linkedin_auto_apply-backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------
+# Database
+# ----------------------
+*.db
+
+# ----------------------
+# OS / Editor
+# ----------------------
+.DS_Store
+*.swp
+*.swo
+
+# ----------------------
+# Root-level secrets
+# ----------------------
+.env
+
